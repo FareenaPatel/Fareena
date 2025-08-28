@@ -15,7 +15,7 @@
 ---
 
 ## 📂 Portfolio Projects  
-- [📈 online retail- excel] (#)  
+- [📈 online retail- excel](#)  
 - [👥 Customer Behavior Analysis – SQL](#)  
 - [📊 Superstore KPI Dashboard – Power BI](#)  
 ---
