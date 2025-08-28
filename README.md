@@ -15,9 +15,9 @@
 ---
 
 ## 📂 Portfolio Projects  
-- [📈 excel (#)  
+- [📈 online retail- excel] (#)  
 - [👥 Customer Behavior Analysis – SQL](#)  
-- [📊 E-commerce KPI Dashboard – Power BI](#)  
+- [📊 Superstore KPI Dashboard – Power BI](#)  
 ---
 
 ## 🌟 Career Goal  
