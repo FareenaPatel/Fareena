@@ -15,9 +15,13 @@
 ---
 
 ## 📂 Portfolio Projects  
-- [📈 online retail- excel](#)  
-- [👥 Customer Behavior Analysis – SQL](#)  
-- [📊 Superstore KPI Dashboard – Power BI](#)  
+- 📈  Online Store Sales (Excel)
+ [https://github.com/FareenaPatel/Excel-online-store-sales-insights](#)
+- 📈 Sales & Profit Dashboard (Excel) [https://github.com/FareenaPatel/Sales-Profit-Dashboard-Excel-](#)
+- 📈 Rainfall Analysis (excel) [https://github.com/FareenaPatel/Rainfall-Analysis-Excel](#) 
+- 👥 Customer Behavior (SQL) [https://github.com/FareenaPatel/Customer-Behavior-SQL](#)  
+- 📊 Superstore Sales Dataset (PowerBI)
+[https://github.com/FareenaPatel/Superstore-Sales-PowerBI](#)  
 ---
 
 ## 🌟 Career Goal  
